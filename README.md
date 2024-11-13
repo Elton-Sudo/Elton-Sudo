@@ -7,7 +7,6 @@
 
 ## About Me
 
-- 🔭 I’m currently working on NPI Buddy app.
 - 💡 Always exploring the latest trends in web development.
 - 💬 Ask me about building scalable web apps and enhancing user experiences.
 - 🧘‍♂️ Fun fact: Practicing Stoicism to stay focused and resilient in the face of challenges.
