@@ -11,7 +11,7 @@
 - 💬 Ask me about building scalable web apps and enhancing user experiences.
 - 🧘‍♂️ Fun fact: Practicing Stoicism to stay focused and resilient in the face of challenges.
 
-## 💻 Skills
+## 💻 Tech
 
 ![My Skills](https://skillicons.dev/icons?i=react,vue,materialui,graphql,apollo,docker,prisma,typescript,jest,nodejs,threejs,php,laravel,symfony,mysql,redis,vite,webpack,npm,yarn,jquery,js,sass,html,wordpress,linux&theme=dark)
 
