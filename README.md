@@ -17,5 +17,5 @@
 
 ## 🛠️ Tools
 
-![My Skills](https://skillicons.dev/icons?i=vscode,phpstorm,bitbucket,aws,&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=vscode,phpstorm,bitbucket,github,aws,&theme=dark)
 
