@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Elton Brown
-Software Engineer at [Scrums.com](https://www.scrums.com) | Working on the Buddy Platform for [NPI](https://npi.ie)
+🌟 Software Engineer at [Scrums.com](https://www.scrums.com) | 🚀 Working on the Buddy Platform for [NPI](https://npi.ie)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eltonbrown.co.za)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eltonbbrown/)
