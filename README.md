@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eltonbbrown/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elton-Sudo)
 
-## About Me
+## ✨ About Me
 
 - 💡 Always exploring the latest trends in web development.
 - 💬 Ask me about building scalable web apps and enhancing user experiences.
