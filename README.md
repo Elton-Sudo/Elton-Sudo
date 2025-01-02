@@ -7,13 +7,13 @@
 
 ## ✨ About Me
 
-- 💡 Always exploring the latest trends in web development.
-- 💬 Ask me about building scalable web apps and enhancing user experiences.
-- 🧘‍♂️ Fun fact: Practicing Stoicism to stay focused and resilient in the face of challenges.
+- 💡 Always exploring the latest trends in app development.
+- 💬 Ask me about building scalable apps and enhancing user experiences.
+- 🧘‍♂️ Fun fact: I am a Stoic.
 
 ## 🛠️ Tech
 
-![My Skills](https://skillicons.dev/icons?i=react,typescript,js,nodejs,materialui,graphql,apollo,docker,prisma,jest,mysql,redis,jquery,threejs)
+![My Skills](https://skillicons.dev/icons?i=react,typescript,js,nodejs,materialui,threejs,graphql,apollo,docker,prisma,jest,mysql,redis,&theme=dark)
 
 ![My Skills](https://skillicons.dev/icons?i=vite,webpack,npm,yarn&theme=dark)
 
