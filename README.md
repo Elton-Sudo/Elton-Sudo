@@ -13,7 +13,11 @@
 
 ## 🛠️ Tech
 
-![My Skills](https://skillicons.dev/icons?i=react,vue,materialui,graphql,apollo,docker,prisma,typescript,jest,nodejs,threejs,php,laravel,symfony,mysql,redis,vite,webpack,npm,yarn,jquery,js,sass,html,wordpress,linux&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=react,typescript,js,nodejs,materialui,graphql,apollo,docker,prisma,jest,mysql,redis,jquery,threejs)
 
-![My Skills](https://skillicons.dev/icons?i=vscode,phpstorm,bitbucket,github,aws,&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=vite,webpack,npm,yarn&theme=dark)
+
+![My Skills](https://skillicons.dev/icons?i=bitbucket,github&theme=dark)
+
+![My Skills](https://skillicons.dev/icons?i=vscode,phpstorm,aws,linux&theme=dark)
 
