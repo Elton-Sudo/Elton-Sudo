@@ -9,7 +9,7 @@
 
 - 💡 Always exploring the latest trends in app development.
 - 💬 Ask me about building scalable apps and enhancing user experiences.
-- 🧘‍♂️ Fun fact: I am a Stoic.
+- 🧘‍♂️ I am Stoic
 
 ## 🛠️ Tech
 
