@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech
 
-![My Skills](https://skillicons.dev/icons?i=react,typescript,js,nodejs,materialui,threejs,graphql,apollo,docker,prisma,jest,mysql,redis,&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=react,nestjs,typescript,js,nodejs,materialui,threejs,graphql,apollo,docker,prisma,jest,mysql,redis,&theme=dark)
 
 ![My Skills](https://skillicons.dev/icons?i=vite,webpack,npm,yarn&theme=dark)
 
