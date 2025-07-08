@@ -21,4 +21,4 @@
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,phpstorm,aws,linux&theme=dark)
 
-"If you're going to stuff up, stuff up big. Just don't do it to prod" Carl Ingerisch
+`If you're going to stuff up, stuff up big. Just don't do it to prod` Carl Ingerisch
